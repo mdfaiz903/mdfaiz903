@@ -1,5 +1,5 @@
 ### Hi there, My name is Mohammad Faiz
-#### I am Back End Developer
+#### Software Engineer
 ![github cover](https://github.com/mdfaiz903/mdfaiz903/assets/50353454/4f3a446d-ccc4-4254-a3c2-b4f5c655ea61)
 
 I'm Mohammad Faiz, a computer science student with a strong foundation in programming, data structures, and algorithms. Currently, I am on the lookout for a challenging internship or entry-level position in the field of software development to apply my academic knowledge and skills while gaining valuable hands-on experience and professional growth opportunities.
