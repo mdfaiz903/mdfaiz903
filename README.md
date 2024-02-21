@@ -25,10 +25,9 @@ Skills: Python/Django/Rest framework/Bootstrap / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaiz903&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdfaiz903)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdfaiz903)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdfaiz903)  
 
-![Profile views](https://gpvc.arturio.dev/mdfaiz903)  
+
